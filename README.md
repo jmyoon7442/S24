@@ -1,5 +1,5 @@
 # S24
-## Digital literacy and English Education in spring 2024
+### Digital literacy and English Education in spring 2024
 
 ---
 
@@ -8,5 +8,3 @@
 + Major: English Education
 
 
-
----
