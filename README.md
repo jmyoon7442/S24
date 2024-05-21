@@ -4,7 +4,6 @@
 ---
 
 :heartpulse: Welcome to my GiyHub :heartpulse:
-+ School ID: 2021012476
 + Major: English Education
 
 
