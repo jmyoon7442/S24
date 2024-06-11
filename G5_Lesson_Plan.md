@@ -17,51 +17,43 @@
 
 ### 01. Preview
 
-**Activity:**
 - Watch a 1.5-minute video related to the story.
 - Pose a key question at the end of the video to engage students.
 
 ### 02. Learning the Story
 
-**Activity:**
 - Use the Read-Aloud Practice App.
 - Play audio files of sentences for students to repeat and practice pronunciation.
 
 ### 03. Grammar Teaching
 
-**Activity:**
 - Use slide images to explain relative pronouns.
 
 
 ### 04-1. Personal Activity for Grammar Learning
 
-**Activity:**
 - Use the Sentence Combiner App to create sentences with relative pronouns.
 - Share sentences on Padlet.
 
 
 ### 04-2. Group Activity for Story Comprehension
 
-**Activity:**
 - Use the Multiple Question App to test story comprehension.
 - Upload results to Padlet.
 
 
 ### 05. Feedback on Group Activity
 
-**Activity:**
 - Review the group activity results and provide feedback.
 
 
 ### 06. Review through Word Cloud App
 
-**Activity:**
 - Use a word cloud to review key points of the lesson.
 
 
 ### 07. Giving Assignment
 
-**Activity:**
 - Assign homework using the Cloze Question App.
 - Students rearrange fragments to form complete sentences with relative pronouns.
 
